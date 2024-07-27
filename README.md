@@ -12,29 +12,8 @@
 
 ---
 
-### Sobre Mim
+## 🛠️ Tecnologias e Ferramentas que eu uso no meu dia
 
-Sou um desenvolvedor apaixonado por tecnologia e inovação. Estou sempre em busca de novos desafios e oportunidades para aprimorar minhas habilidades. Aqui você encontrará links para minhas redes sociais e projetos mais recentes.
-
----
-
-## 🛠️ Tecnologias e Ferramentas
-
-- **Frontend**: HTML, CSS, JavaScript
-- **Backend**: Python
-- **Ferramentas**: Git, Docker, VSCode
-
----
-
-## 📫 Como Entrar em Contato
-
-- **E-mail**:(vinistn.br@gmail.com)
-
-
-
-
-
-## Tecnologias que eu uso no meu dia
 
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -45,4 +24,15 @@ Sou um desenvolvedor apaixonado por tecnologia e inovação. Estou sempre em bus
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </div><br/>
 
-Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
+---
+
+### Sobre Mim
+
+Sou um desenvolvedor apaixonado por tecnologia e inovação. Estou sempre em busca de novos desafios e oportunidades para aprimorar minhas habilidades. Aqui você encontrará links para minhas redes sociais e projetos mais recentes.
+
+---
+
+## 📫 Como Entrar em Contato
+
+- **E-mail**:(vinistn.br@gmail.com)
+
