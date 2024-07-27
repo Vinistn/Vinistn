@@ -1,68 +1,31 @@
-# Olá, eu sou [Seu Nome] 👋
+## Olá! Eu sou o Matheus Fraga 🖐️
 
-**Desenvolvedor Frontend & Backend | Apaixonado por Tecnologia e Inovação**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-perfil)
+[![Blog](https://img.shields.io/website?label=SujeitoProgramador.com&style=for-the-badge&url=https://sujeitoprogramador.com/)](https://sujeitoprogramador.com)
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/c/sujeitoprogramador)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sujeitoprogramador)
+[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/fragabr)
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white)](https://github.com/seu-usuario)
-[![Website](https://img.shields.io/badge/Website-000000?style=flat&logo=web&logoColor=white)](https://seu-website.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-perfil)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/seu-perfil)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/seu-perfil)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/seu-perfil)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/seu-perfil)
 
-Sou um desenvolvedor com experiência em HTML, CSS, JavaScript e Python. Gosto de criar soluções eficazes e elegantes para problemas complexos.
 
-## 🚀 Tecnologias que eu uso
 
-### **Frontend**
 
-- **HTML**: Estrutura de páginas web.
-- **CSS**: Estilização e design.
-- **JavaScript**: Interatividade e lógica no frontend.
 
-### **Backend**
 
-- **Python**: Scripts e aplicações backend.
 
-## 📊 Estatísticas do Perfil
+## Tecnologias que eu uso no meu dia
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&hide_title=true&hide=prs&count_private=true&include_all_commits=true&theme=radical)
+<div style="display: inline_block">
+  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img align="center" alt="ts" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+</div><br/>
 
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical)
-
-## 💼 Projetos em Destaque
-
-### **[Nome do Projeto em HTML/CSS/JavaScript](link-do-repositorio)**
-Um projeto interessante que desenvolvi. Ele demonstra minhas habilidades em HTML, CSS e JavaScript.
-
-**Demonstração**:
-![Imagem do Projeto](link-para-imagem-do-projeto)
-
-### **[Nome do Projeto em Python](link-do-repositorio)**
-Um projeto backend em Python que mostra minha capacidade de criar aplicações robustas.
-
-**Demonstração**:
-![Imagem do Projeto](link-para-imagem-do-projeto)
-
-## 🛠️ Exemplos de Código
-
-### HTML
-
-```html
-<!DOCTYPE html>
-<html lang="pt-BR">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Exemplo HTML</title>
-    <link rel="stylesheet" href="styles.css">
-</head>
-<body>
-    <header>
-        <h1>Bem-vindo ao Meu Portfólio</h1>
-    </header>
-    <main>
-        <section>
-            <h2>Sobre Mim</h2>
-            <p>Sou um desenvolvedor com experiência em HTML, CSS, JavaScript e Python.</p>
-        </section>
-    </main>
-    <script src="script.js"></script>
-</body>
-</html>
+Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
